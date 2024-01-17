@@ -26,7 +26,7 @@ The dynamic nature of technology is something I am very passionate about. I thri
 
 ## At least three screenshots of the best-looking parts of a previous project, like your Code 201 final project.
 
-<img src='/imgaes/getaway.jpg' width="400" height="400">
+<img src='../imgaes/getaway.jpg' width="400" height="400">
 <img src='/images/getaway2.jpg' width="400" height="400">
 <img src='/images/Screenshot 2024-01-17 151443.png' width="400" height="400">
 
