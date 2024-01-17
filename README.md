@@ -18,17 +18,17 @@ The dynamic nature of technology is something I am very passionate about. I thri
 
 ## A headshot of your wonderful face, approximately 200x250 pixels.
 
-<img src='unnamed.jpg' width="200" height="250">
+<img src='/images/unnamed.jpg' width="200" height="250">
 
 ## A background image, approximately 1500x700 pixels.
 
-<img src='70sfloral.webp' width="1500" height="700">
+<img src='/images/70sfloral.webp' width="1500" height="700">
 
 ## At least three screenshots of the best-looking parts of a previous project, like your Code 201 final project.
 
-<img src='getaway.jpg' width="400" height="400">
-<img src='getaway2.jpg' width="400" height="400">
-<img src='Screenshot 2024-01-17 151443.png' width="400" height="400">
+<img src='/imgaes/getaway.jpg' width="400" height="400">
+<img src='/images/getaway2.jpg' width="400" height="400">
+<img src='/images/Screenshot 2024-01-17 151443.png' width="400" height="400">
 
 
 ## At least three screenshots each, of two other projects you have worked on. Salmon Cookies? Odd Duck?
